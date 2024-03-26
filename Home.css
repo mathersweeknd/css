@@ -1,0 +1,14 @@
+img {
+    width: 250px;
+    height: 250px;       
+}
+body{
+background-image: url("top.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+background-size: cover;
+}
+.container
+{display: flex;
+flex-direction: row | row-reverse | column | column-reverse;}
